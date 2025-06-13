@@ -81,12 +81,18 @@
 ## 📈 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikar&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Danchouvzv&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikar&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Danchouvzv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danchouvzv&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Danchouvzv&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20Coffee-0070F3?style=flat-square"/>
+</p>
+
 
 ---
 
