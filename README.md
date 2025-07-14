@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=14-летний+Full-Stack+Разработчик;+Баскетболист+🏀;Из+солнечной+Алматы+🇰🇿;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=14-летний+Full-Stack+Разработчик;+Баскетболист+🏀;" alt="Typing SVG" />
 </div>
 
 
