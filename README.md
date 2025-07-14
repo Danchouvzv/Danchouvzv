@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=14-летний+Full-Stack+Разработчик;ML-энтузиаст+и+Баскетболист+🏀;Из+солнечной+Алматы+🇰🇿;Создаю+будущее+через+код+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=14-летний+Full-Stack+Разработчик;+Баскетболист+🏀;Из+солнечной+Алматы+🇰🇿;" alt="Typing SVG" />
 </div>
 
 
@@ -28,11 +28,11 @@
     <tr>
       <td>
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-        <b>Возраст:</b> 14 лет (род. 2010)
+        <b>Возраст:</b> 14 лет 
       </td>
       <td>
         <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
-        <b>Школа:</b> NIS ХБН Алматы
+        <b>Школа:</b> НИШ ХБН Алматы
       </td>
     </tr>
     <tr>
@@ -81,7 +81,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
-  <span style="background: linear-gradient(45deg, #4facfe, #00f2fe); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Крутые Проекты</span>
+  <span style="background: linear-gradient(45deg, #4facfe, #00f2fe); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Любимые Проекты</span>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
 </h2>
 
