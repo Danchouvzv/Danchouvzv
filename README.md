@@ -9,7 +9,7 @@
 ## Технологии
 **Frontend:** React, Next.js, TypeScript, Tailwind  
 **Backend:** Python (FastAPI/Django), Firebase/Firestore, PostgreSQL  
-**ML/AI:** TensorFlow/Keras, XGBoost, Gemini API  
+**ML/AI:** TensorFlow/Keras, XGBoost
 **Dev:** GitHub Actions, Docker, CI/CD
 
 ## Достижения
