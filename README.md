@@ -7,10 +7,13 @@
 
 
 ## Технологии
-**Frontend:** React, Next.js, TypeScript, Tailwind  
-**Backend:** Python (FastAPI/Django), Firebase/Firestore, PostgreSQL  
-**ML/AI:** TensorFlow/Keras, XGBoost
-**Dev:** GitHub Actions, Docker, CI/CD
+Участник и победитель хакатонов (включая FTC Robotics как coder)
+
+Лидер школьного веб-клуба (50+ участников)
+
+Создал проект с 3000+ зарегистрированными пользователями
+
+Опыт разработки и деплоя full-stack-проектов с интеграцией ML и облачных сервисов
 
 ## Достижения
 FTC Robotics (coder), победы/призы на хакатонах, проект с 500+ пользователями, лидер школьного веб‑клуба (50+ участников).
