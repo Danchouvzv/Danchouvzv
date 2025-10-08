@@ -7,6 +7,12 @@
 
 
 ## Технологии
+Frontend: React, Next.js, TypeScript, Tailwind CSS
+Backend: Node.js, Express, Python (FastAPI, Django), Spring Boot, Firebase (Firestore, Auth), PostgreSQL
+ML/AI: TensorFlow/Keras, XGBoost, Scikit-learn
+DevOps: GitHub Actions, Docker, CI/CD, Nginx
+
+## Достижения
 Участник и победитель хакатонов (включая FTC Robotics как coder)
 
 Лидер школьного веб-клуба (50+ участников)
@@ -15,8 +21,6 @@
 
 Опыт разработки и деплоя full-stack-проектов с интеграцией ML и облачных сервисов
 
-## Достижения
-FTC Robotics (coder), победы/призы на хакатонах, проект с 500+ пользователями, лидер школьного веб‑клуба (50+ участников).
 
 ## Контакты
 Email: **talgatovdaniyal@gmail.com**  
