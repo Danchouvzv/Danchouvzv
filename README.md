@@ -15,7 +15,7 @@ DevOps: GitHub Actions, Docker, CI/CD, Nginx
 
 Лидер школьного веб-клуба (50+ участников)
 
-Создал проект с 3000+ зарегистрированными пользователями
+Создал проект с 5000+ зарегистрированными пользователями
 
 Опыт разработки и деплоя full-stack-проектов с интеграцией ML и облачных сервисов
 
@@ -23,8 +23,8 @@ DevOps: GitHub Actions, Docker, CI/CD, Nginx
 
 Email: talgatovdaniyal@gmail.com
 
-Telegram: t.me/danchouvzv
+Telegram: t.me/doniponi
 
-LinkedIn: linkedin.com/in/danchouvzv
+LinkedIn: [linkedin.com/in/danchouvzv](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 Спасибо, что заглянули.
