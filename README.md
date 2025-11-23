@@ -7,7 +7,7 @@
 Frontend: React, Next.js, TypeScript, Tailwind CSS
 Backend: Node.js, Express, Python (FastAPI, Django), Spring Boot, Firebase (Firestore, Auth), PostgreSQL
 ML/AI: TensorFlow/Keras, XGBoost, Scikit-learn
-DevOps: GitHub Actions, Docker, CI/CD, Nginx
+
 
 Достижения
 
