@@ -1,30 +1,22 @@
-Даниял Талгатов — full-stack разработчик 🏀
+# Daniyal Talgatov — Full-Stack Developer 🏀
 
-Программирую с 11 лет. Люблю чистую архитектуру, понятные интерфейсы и продукты, которые решают реальные задачи. Делаю проекты, стартапы, участвую в хакатонах.
+Coding since I was 11. I’m into clean architecture, clear UI, and products that solve real problems.  
+I build projects, ship startups, and jump into hackathons.
 
-Технологии
+## Tech
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Express, Python (FastAPI, Django), Spring Boot, Firebase (Firestore, Auth), PostgreSQL  
+- **ML/AI:** TensorFlow/Keras, XGBoost, Scikit-learn  
 
-Frontend: React, Next.js, TypeScript, Tailwind CSS
-Backend: Node.js, Express, Python (FastAPI, Django), Spring Boot, Firebase (Firestore, Auth), PostgreSQL
-ML/AI: TensorFlow/Keras, XGBoost, Scikit-learn
+## Highlights
+- Hackathon participant + winner (incl. FTC Robotics as a coder)
+- Leading a school web club (50+ members)
+- Built a project with **5,000+ registered users**
+- Full-stack development + deployment with ML and cloud integrations
 
+## Contact
+- **Email:** talgatovdaniyal@gmail.com  
+- **Telegram:** https://t.me/doniponi  
+- **LinkedIn:** https://www.linkedin.com/in/danchouvzv  
 
-Достижения
-
-Участник и победитель хакатонов (включая FTC Robotics как coder)
-
-Лидер школьного веб-клуба (50+ участников)
-
-Создал проект с 5000+ зарегистрированными пользователями
-
-Опыт разработки и деплоя full-stack-проектов с интеграцией ML и облачных сервисов
-
-Контакты
-
-Email: talgatovdaniyal@gmail.com
-
-Telegram: t.me/doniponi
-
-LinkedIn: [linkedin.com/in/danchouvzv](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-
-Спасибо, что заглянули.
+Thanks for stopping by.
