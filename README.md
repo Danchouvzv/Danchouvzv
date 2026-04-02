@@ -11,7 +11,7 @@ I build projects, ship startups, and jump into hackathons.
 ## Highlights
 - Hackathon participant + winner (incl. FTC Robotics as a coder)
 - Leading a school web club (90+ members)
-- Built a project with **5,000+ registered users**
+- Built a project with **10,000+ registered users**
 - Full-stack development + deployment with ML and cloud integrations
 
 ## Contact
