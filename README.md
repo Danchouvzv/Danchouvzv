@@ -1,22 +1,30 @@
-# Daniyal Talgatov — Full-Stack Developer 🏀
+# hey, i'm daniyal 🏀
 
-Coding since I was 11. I’m into clean architecture, clear UI, and products that solve real problems.  
-I build projects, ship startups, and jump into hackathons.
+15 and building things. started coding at 11 because i had nothing better to do, apparently still don't.
 
-## Tech
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, Express, Python (FastAPI, Django), Spring Boot, Firebase (Firestore, Auth), PostgreSQL  
-- **ML/AI:** TensorFlow/Keras, XGBoost, Scikit-learn  
+co-founded grader.ai — an ai that grades your ielts writing/speaking so you dont have to pay $50/hr for a tutor to tell you your grammar is bad. 20k+ users now, somehow.
 
-## Highlights
-- Hackathon participant + winner (incl. FTC Robotics as a coder)
-- Leading a school web club (90+ members)
-- Built a project with **10,000+ registered users**
-- Full-stack development + deployment with ML and cloud integrations
+currently building a physical ai lab because apps got boring and now i want robots to move on their own too
 
-## Contact
-- **Email:** talgatovdaniyal@gmail.com  
-- **Telegram:** https://t.me/doniponi  
-- **LinkedIn:** https://www.linkedin.com/in/danchouvzv  
+## things i've shipped
+- **grader.ai** — cto, 20k+ users, crossed $5k rev, built by two teenagers who should probably be doing homework
+- **jumysal** — internship platform for teens, 10k users, got 100+ of them actual jobs
+- **oilspillai** — cnn-lstm model that predicts oil spills better than the old boring math models did
+- **invision-u** — ai that reads college essays and shows evidence instead of just vibes-based rejecting you
+- got 2 awards at an international robotics comp because i can also make metal move, not just code
 
-Thanks for stopping by.
+## stack
+react, next.js, typescript, node, python (fastapi/django), tensorflow, xgboost — whatever gets the thing shipped by 4am
+
+## proof i have no life
+- solved 1000+ problems on codeforces at 13
+- 100 day leetcode streak at 14, failed like 20 interviews before it clicked
+- was delivering food for yandex go before grader.ai had a single paying user
+- someone stole my bike and i was more sad about the metaphor than the bike
+
+## reach me
+- email: talgatovdaniyal@gmail.com
+- telegram: @doniponi
+- linkedin: /in/doniponi
+
+still 15. still building. no this is not a phase
