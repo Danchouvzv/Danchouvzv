@@ -1,5 +1,5 @@
 daniyal. building physical ai lab
 
-grader.ai is generally available @ grader.ai
+grader.cloud is generally available — 20k+ users, ai ielts grading
 
-prev: cto at 15, delivering food before that
+prev: 15yo cto, delivered food for yandex go before grader.ai had a paying user
